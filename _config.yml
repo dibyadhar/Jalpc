@@ -15,7 +15,7 @@ author:  # change following line to your infomation.
   first_name: Dibya  # Be used at index page about me section.
   last_name: Dhar  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: dibyadhar  # Leave blank if you don't have now
+  github_username: # Leave blank if you don't have now
   linkedin_id: dibya-dhar-1a9027102 # Leave blank if you don't have now
   facebook_username: dibya.dhar  # Leave blank if you don't have now
   twitter_username: # Leave blank if you don't have now
